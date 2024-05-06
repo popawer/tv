@@ -1,8 +1,9 @@
 ﻿{
+//113.05.07
   "channelList": [
     {
       "url": "https://www.youtube.com/watch?v=m_dhMSvUCIc",
-      "name": "123TVBS新聞"
+      "name": "111TVBS新聞"
     },
     {
       "url": "https://www.youtube.com/watch?v=xL0ch83RAK8",
