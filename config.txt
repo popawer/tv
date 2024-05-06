@@ -1,5 +1,5 @@
 {
-//113.05.07
+//113.05.7
   "channelList": [
     {
       "url": "https://www.youtube.com/watch?v=m_dhMSvUCIc",
@@ -125,11 +125,6 @@
       "name": "華視"
     },
 	
-	
-	{
-      "url": "https://www.ofiii.com/channel/watch/ofiii13",
-      "name": "公視金獎台"
-    },
 	
 		
 	{
@@ -280,12 +275,6 @@
 	{
       "url": "https://www.4gtv.tv/channel/4gtv-live088?set=4&ch=285",
       "name": "TVBS台劇台"
-    },
-	
-	
-	{
-      "url": "https://www.4gtv.tv/channel/4gtv-live021?set=4&ch=201",
-      "name": "經典電影台"
     },
 	
 	
