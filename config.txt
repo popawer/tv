@@ -32,7 +32,7 @@
     },
 	
     {
-      "url": "https://www.youtube.com/watch?v=LuQ4S-i5zoE",
+      "url": "https://www.youtube.com/watch?v=V1p33hqPrUk",
       "name": "東森新聞"
     },
 	
@@ -65,12 +65,7 @@
       "url": "https://www.youtube.com/watch?v=DTNkEm6jaqQ",
       "name": "大愛二臺"
     },
-	
-    {
-      "url": "https://www.youtube.com/watch?v=iyOq8DhaMYw",
-      "name": "Bloomberg Business News"
-    },
-	
+		
     {
       "url": "https://www.youtube.com/watch?v=CKjSm5ZeehE",
       "name": "三立 iNEWS 新聞"
@@ -95,11 +90,6 @@
     {
       "url": "https://www.youtube.com/watch?v=w87VGpgd90U",
       "name": "寰宇新聞台灣台"
-    },
-	
-    {
-      "url": "https://today.line.me/tw/v2/article/jggMBa",
-      "name": "TVBS新聞 (Line)"
     },
 	
     {
@@ -132,79 +122,7 @@
       "name": "好消息2台"
     },
 	
-	
-	{
-      "url": "https://www.4gtv.tv/channel/4gtv-4gtv003?set=4&ch=1",
-      "name": "民視第一台"
-    },
-	
-	
-	
-	{
-      "url": "https://www.4gtv.tv/channel/4gtv-4gtv001?set=4&ch=2",
-      "name": "民視台灣台"
-    },
-	
-	
-	{
-      "url": "https://www.4gtv.tv/channel/4gtv-live007?set=4&ch=209",
-      "name": "大愛電視"
-    },
-	
-	
-	{
-      "url": "https://www.4gtv.tv/channel/4gtv-4gtv080?set=4&ch=124",
-      "name": "中視經典台"
-    },
-	
-	
-	{
-      "url": "https://www.4gtv.tv/channel/4gtv-live207?set=4&ch=169",
-      "name": "三立綜合台"
-    },
-	
-	
-	{
-      "url": "https://www.4gtv.tv/channel/4gtv-4gtv064?set=4&ch=123",
-      "name": "中視菁采台"
-    },
-	
-		
-	{
-      "url": "https://www.ofiii.com/channel/watch/litv-longturn23",
-      "name": "寰宇財經台"
-    },
-	
-	
-	{
-      "url": "https://www.4gtv.tv/channel/4gtv-4gtv004?set=4&ch=16",
-      "name": "民視綜藝台"
-    },
-	
-	
-	{
-      "url": "https://www.4gtv.tv/channel/4gtv-live087?set=4&ch=284",
-      "name": "TVBS綜藝台"
-    },
-	
-	
-	{
-      "url": "https://www.4gtv.tv/channel/4gtv-4gtv047?set=1&ch=22",
-      "name": "靖天日本台"
-    },
-	
-	
-	{
-      "url": "https://www.4gtv.tv/channel/4gtv-4gtv063?set=1&ch=84",
-      "name": "靖天國際台"
-    },
-	
-	
-	{
-      "url": "https://www.4gtv.tv/channel/4gtv-4gtv054?set=1&ch=119",
-      "name": "靖天歡樂台"
-    },
-	
+
 	
 	{
       "url": "https://www.ofiii.com/channel/watch/litv-longturn11",
@@ -224,11 +142,6 @@
     },
 	
 	
-	{
-      "url": "https://www.ofiii.com/channel/watch/ofiii1048",
-      "name": "Focus風采戲劇台"
-    },
-	
 	
 	{
       "url": "https://www.ofiii.com/channel/watch/litv-longturn12",
@@ -247,48 +160,9 @@
       "name": "龍華電影台"
     },
 	
+
 	
-	{
-      "url": "https://www.4gtv.tv/channel/4gtv-4gtv062?set=1&ch=83",
-      "name": "靖天育樂台"
-    },
-	
-	
-	{
-      "url": "https://www.4gtv.tv/channel/4gtv-4gtv034?set=1&ch=172",
-      "name": "八大精彩台"
-    },
-	
-	
-	{
-      "url": "https://www.4gtv.tv/channel/4gtv-4gtv058?set=1&ch=116",
-      "name": "靖天戲劇台"
-    },
-	
-	
-    {
-      "url": "https://www.4gtv.tv/channel/4gtv-4gtv011?set=1&ch=40",
-      "name": "影迷數位電影台"
-    },
-	
-	
-	{
-      "url": "https://www.4gtv.tv/channel/4gtv-live088?set=4&ch=285",
-      "name": "TVBS台劇台"
-    },
-	
-	
-	{
-      "url": "https://www.4gtv.tv/channel/4gtv-live620?set=1&ch=186",
-      "name": "HITS頻道"
-    },
-	
-	
-	{
-      "url": "https://www.4gtv.tv/channel/4gtv-4gtv006?set=4&ch=113",
-      "name": "豬哥亮歌廳秀"
-    },
-	
+  
 	
 	{
       "url": "https://www.ofiii.com/channel/watch/litv-longturn19",
@@ -307,47 +181,12 @@
       "name": "亞洲旅遊台"
     },
 	
-	
-	{
-      "url": "https://www.4gtv.tv/channel/4gtv-live120?set=4&ch=237",
-      "name": "愛爾達生活旅遊台"
-    },
-	
-	
-	{
-      "url": "https://www.4gtv.tv/channel/4gtv-live107?set=4&ch=231",
-      "name": "MOMO親子台"
-    },
-	
-	
-	{
-      "url": "https://www.4gtv.tv/channel/4gtv-live022?set=4&ch=202",
-      "name": "經典卡通台"
-    },
-	
-	
-	{
-      "url": "https://www.4gtv.tv/channel/litv-ftv15?set=1&ch=60",
-      "name": "i-Fun動漫台"
-    },
-	
-	
-	{
-      "url": "https://www.4gtv.tv/channel/4gtv-live009?set=4&ch=269",
-      "name": "兒童卡通台"
-    },
-	
-	
+
 	{
       "url": "https://www.ofiii.com/channel/watch/litv-longturn01",
       "name": "龍華卡通台"
     },
 	
-	
-	{
-      "url": "https://www.4gtv.tv/channel/4gtv-live024?set=4&ch=204",
-      "name": "精選動漫台"
-    },
 	
 	
 	{
