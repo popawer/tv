@@ -162,19 +162,11 @@
 	
 
 	
-  
-	
 	{
       "url": "https://www.ofiii.com/channel/watch/litv-longturn19",
       "name": "Smart知識台"
     },
-	
-	
-	{
-      "url": "https://www.4gtv.tv/channel/litv-ftv07?set=4&ch=61",
-      "name": "民視旅遊台"
-    },
-	
+		
 	
 	{
       "url": "https://www.ofiii.com/channel/watch/litv-longturn17",
