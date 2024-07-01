@@ -12,7 +12,7 @@
     },
 	
     {
-      "url": "https://www.4gtv.tv/channel/litv-ftv13?set=1&ch=31",
+      "url": "https://www.youtube.com/watch?v=ylYJSBUgaMA",
       "name": "民視新聞"
     },
 	
